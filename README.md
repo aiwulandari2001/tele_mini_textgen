@@ -7,7 +7,7 @@ Bisa menambahkan kalimat ke korpus, melatih model, dan generate teks baru.
 
 1. Clone repo
    ```bash
-   git clone https://github.com/username/tele_mini_textgen.git
+   git clone https://github.com/aiwulandari2001/tele_mini_textgen.git
    cd tele_mini_textgen
    ```
 
